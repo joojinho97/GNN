@@ -1,1 +1,1 @@
-# GNN_study
+# GNN
